@@ -5,3 +5,6 @@
 [submodule "detectXOR"]
 	path = detectXOR
 	url = https://github.com/jornlotsch/detectxor
+[submodule "opImputation"]
+	path = opImputation
+	url = https://github.com/jornlotsch/opimputation
