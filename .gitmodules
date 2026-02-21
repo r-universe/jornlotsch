@@ -8,3 +8,6 @@
 [submodule "opImputation"]
 	path = opImputation
 	url = https://github.com/jornlotsch/opimputation
+[submodule "pguIMP"]
+	path = pguIMP
+	url = https://github.com/jornlotsch/pguimp
