@@ -14,6 +14,9 @@
 [submodule "opImputation"]
 	path = opImputation
 	url = https://github.com/jornlotsch/opimputation
+[submodule "opdisDownsampling"]
+	path = opdisDownsampling
+	url = https://github.com/jornlotsch/opdisdownsampling
 [submodule "pguIMP"]
 	path = pguIMP
 	url = https://github.com/jornlotsch/pguimp
